@@ -1,0 +1,5 @@
+dimensions_for_field = 100
+energy_consumed_for_tracking_event = 1.1325
+total_energy_battery_per_node = 5.000
+energy_consumed_per_switching_event = 0.1212
+min_energy_required_for_active_node = 0.231875
